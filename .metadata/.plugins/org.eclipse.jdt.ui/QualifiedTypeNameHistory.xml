@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="com.nisum.Employee_ManagementApp.service.EmployeeService"/>
+<fullyQualifiedTypeName name="com.nisum.Employee_ManagementApp.repository.EmployeeRepository"/>
+<fullyQualifiedTypeName name="com.nisum.Employee_ManagementApp.model.Employee"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+</qualifiedTypeNameHistroy>

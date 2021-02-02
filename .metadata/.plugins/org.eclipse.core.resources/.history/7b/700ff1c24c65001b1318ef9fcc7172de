@@ -1,0 +1,6 @@
+package com.nisum.EmployeeManagement;
+import javax.ws.rs.Path;
+@Path("/emp")
+public class EmployeeService {
+
+}

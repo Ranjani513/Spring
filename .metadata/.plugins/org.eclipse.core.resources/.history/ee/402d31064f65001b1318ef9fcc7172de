@@ -1,0 +1,14 @@
+package com.nisum.Client;
+
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
+
+public class EmpGetClient {
+public static void main(String[] args)
+{
+	Client client =Client.create();
+	WebResource webresources =client.resource("http://localhost:8080/EmployeeManagement/rest/emp/get/100");
+	ClientResponse response =webresources.type("application/xml").get(ClientResponse.class);
+	
+}
+}
